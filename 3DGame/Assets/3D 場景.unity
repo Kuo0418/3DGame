@@ -5475,7 +5475,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100062, guid: f227b5017a7c0184a96c2c26f1e4408d, type: 3}
       propertyPath: m_Name
-      value: "\u9AB7\u9ACFNPC"
+      value: "\u9AB7\u9ACF"
       objectReference: {fileID: 0}
     - target: {fileID: 400062, guid: f227b5017a7c0184a96c2c26f1e4408d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6009,7 +6009,10 @@ MonoBehaviour:
   data: {fileID: 11400000, guid: fcbc9fad85f2fe2468150b3986235935, type: 2}
   dialog: {fileID: 564927857}
   textContent: {fileID: 76214609}
+  textName: {fileID: 694345441}
+  interval: 0.1
   playerInAree: 0
+  start: 0
 --- !u!4 &2004798827 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400062, guid: f227b5017a7c0184a96c2c26f1e4408d,
